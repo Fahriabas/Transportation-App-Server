@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "userName": "FahriAbas",
+        "email": "fahriabas@gmail.com",
+        "password": "fahriabas",
+        "role": "Admin",
+        "phoneNumber": "08233324545",
+        "address": "Jl BarataJaya 2 No 231"
+    },
+    {
+        "id": 2,
+        "userName": "Joko",
+        "email": "jokobudi@gmail.com",
+        "password": "joko",
+        "role": "Staff",
+        "phoneNumber": "08233324545",
+        "address": "Jl BarataJaya 2 No 231"
+    },
+    {
+        "id": 3,
+        "userName": "abdul",
+        "email": "abdul@gmail.com",
+        "password": "abdul",
+        "role": "Staff",
+        "phoneNumber": "08233324545",
+        "address": "Jl merdeka 2 No 21"
+    }
+]
