@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Honda Beat",
+        "description": "Motor Honda beat cocok dipakai jalan jalan keliling kota bagi yang tidak memiliki kendaraan buruan Checkout",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1bYqf849icz1DKQ006T1A3m4vH1grOUVrg&usqp=CAU",
+        "location": "Jakarta",
+        "price" : 200000,
+        "typeId": 1,
+        "authorId": 2
+    },
+    {
+        "id": 2,
+        "name": "Honda Vario",
+        "description": "Motor Honda Vario cocok dipakai jalan jalan keliling kota bagi yang tidak memiliki kendaraan buruan Checkout",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGy4iWA5HAkaiGu8-LXDaPm_xxp2E5Plg1SQ&usqp=CAU",
+        "location": "Bekasi",
+        "price" : 200000,
+        "typeId": 1,
+        "authorId": 3
+    },
+    {
+        "id": 3,
+        "name": "Honda Supra x 125",
+        "description": "Motor Honda Supra cocok dipakai jalan jalan keliling kota bagi yang tidak memiliki kendaraan buruan Checkout",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC1VcOnG4bmlRgDXLeYjHWo1EE8saodfXeTA&usqp=CAU",
+        "location": "Depok",
+        "price" : 200000,
+        "typeId": 1,
+        "authorId": 2
+    },
+    {
+        "id": 4,
+        "name": "Honda Brv",
+        "description": "Mobil praktis bisa dipakai bareng keluarga untuk jalan jalan",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRIqSu2FpCQGqlNPGLYDYiFqfGTms-wfLpJg&usqp=CAU",
+        "location": "Depok",
+        "price" : 500000,
+        "typeId": 2,
+        "authorId": 3
+    },
+    {
+        "id": 5,
+        "name": "Kijang Innova",
+        "description": "Mobil praktis bisa dipakai bareng keluarga untuk jalan jalan, harga terjangkau",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToyTOsnEOmAR75rSQjNt1JSxZSPFj1L6wHQw&usqp=CAU",
+        "location": "Tangerang",
+        "price" : 500000,
+        "typeId": 2,
+        "authorId": 2
+    },
+    {
+        "id": 6,
+        "name": "Dump Truck",
+        "description": "cocok untuk memuat material berat seperti puing puing atau material konstruksi buruan checkout",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGMty2wEhWGlH5EF5di2qbYjTjp5363sA_w&usqp=CAU",
+        "location": "Jakarta",
+        "price" : 900000,
+        "typeId": 3,
+        "authorId": 2
+    },
+    {
+        "id": 7,
+        "name": "Cargo Truck",
+        "description": "cocok untuk memuat material berat yang mau dikirimkan keluar pulau atau material konstruksi buruan checkout",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ079gcWQENO-UCpxHDmuDBTbzYrWUSKKEdkQ&usqp=CAU",
+        "location": "Tangerang",
+        "price" : 900000,
+        "typeId": 3,
+        "authorId": 2
+    },
+    {
+        "id": 8,
+        "name": "Truck Modif",
+        "description": "cocok untuk muat barang barang yang akan dijual dipasar atau bisa untuk memindahkan barang barang bagi yang berpindah rumah",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwcWR9P1UmLXMLYgiw0heQRX3NI0sXt9emlw&usqp=CAU",
+        "location": "Jakarta",
+        "price" : 700000,
+        "typeId": 3,
+        "authorId": 2
+    },
+    {
+        "id": 9,
+        "name": "Bus Harapan",
+        "description": "silahkan dicarter untuk keperluan jalan jalan bareng",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeL0U6_x2ISu8_8qCMP7_E8ob7G29zYW5hRg&usqp=CAU",
+        "location": "Jakarta",
+        "price" : 2000000,
+        "typeId": 4,
+        "authorId": 2
+    },
+    {
+        "id": 10,
+        "name": "Bus Sugeng Rahayu",
+        "description": "silahkan dicarter untuk keperluan jalan jalan bareng",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTULYp0fSyf-YSnRi1dx2m90q66wXxLGLnsg&usqp=CAU",
+        "location": "Jakarta",
+        "price" : 2000000,
+        "typeId": 4,
+        "authorId": 2
+    },
+    {
+        "id": 11,
+        "name": "Bus Pariwisata",
+        "description": "silahkan dicarter untuk keperluan jalan jalan bareng",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBuWxcQBET6fEOPgcod8Wmea4qPKHNcmDL5g&usqp=CAU",
+        "location": "Jakarta",
+        "price" : 2000000,
+        "typeId": 4,
+        "authorId": 2
+    },
+    {
+        "id": 12,
+        "name": "Honda Genio",
+        "description": "silahkan dicarter untuk keperluan jalan jalan bareng",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IRBhipkrOPcXqttFU2iiZomC4ed3m_3imA&usqp=CAU",
+        "location": "Tangerang",
+        "price" : 2000000,
+        "typeId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 13,
+        "name": "Pcx",
+        "description": "silahkan dicarter untuk keperluan jalan jalan bareng",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeMy5PDhhntTbrra3aRpsrdI5Ab80AoXlDQ&usqp=CAU",
+        "location": "Tangerang",
+        "price" : 2000000,
+        "typeId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 14,
+        "name": "Honda Beat biru",
+        "description": "silahkan dicarter untuk keperluan jalan jalan bareng",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBC3eQ8BkuCAJ6WSwH2wPnZX6qVwadjlfm1Q&usqp=CAU",
+        "location": "Tangerang",
+        "price" : 220000,
+        "typeId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 15,
+        "name": "Range Rover",
+        "description": "Mobil praktis bisa dipakai bareng keluarga untuk jalan jalan",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShRIy2x8z04oOvGWpHHY2LkAV91p1q1xC0Nw&usqp=CAU",
+        "location": "Bekasi",
+        "price" : 1000000,
+        "typeId": 2,
+        "authorId": 3
+    },
+    {
+        "id": 16,
+        "name": "Wuling Almaz",
+        "description": "Mobil praktis bisa dipakai bareng keluarga untuk jalan jalan",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9AP-9aUug_5idKkZcDBvNZTCv_TN5Vm_ig&usqp=CAU",
+        "location": "Bekasi",
+        "price" : 800000,
+        "typeId": 2,
+        "authorId": 3
+    },
+    {
+        "id": 17,
+        "name": "Wuling Airev",
+        "description": "Mobil praktis bisa dipakai bareng keluarga untuk jalan jalan",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e68SoX-giDLKysGPnBGFsVKL-TV5sUS9qA&usqp=CAU",
+        "location": "Bekasi",
+        "price" : 400000,
+        "typeId": 2,
+        "authorId": 3
+    },
+    {
+        "id": 18,
+        "name": "Pick Up",
+        "description": "Mobil praktis bisa dipakai bareng keluarga untuk jalan jalan",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmxKigsRdO5WF0bdYsJBve_PI300VlHOpplA&usqp=CAU",
+        "location": "Bekasi",
+        "price" : 250000,
+        "typeId": 2,
+        "authorId": 3
+    },
+    {
+        "id": 19,
+        "name": "Pick Up Hitam",
+        "description": "Mobil praktis bisa dipakai bareng keluarga untuk jalan jalan",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnwzpQ2zmGOAihbGsoyP8atOtDksJvnJoKA&usqp=CAU",
+        "location": "Bekasi",
+        "price" : 250000,
+        "typeId": 2,
+        "authorId": 3
+    },
+    {
+        "id": 20,
+        "name": "Bus Jalan Jalan",
+        "description": "Mobil praktis bisa dipakai bareng keluarga untuk jalan jalan",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ6ZXE2oy9fLTZNFvAPWYHs7G2-yY82ZwoQ&usqp=CAU",
+        "location": "Jakarta",
+        "price" : 250000,
+        "typeId": 4,
+        "authorId": 2
+    }
+]
